@@ -1,5 +1,3 @@
-03.30 11:37 AM
-Script.js
 let medicines = JSON.parse(localStorage.getItem("meds")) || [];
 
 function saveData() {
